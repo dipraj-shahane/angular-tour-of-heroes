@@ -1,1 +1,1 @@
-# angular-tour-of-heroes
+# Angular starting POC tour-of-heroes
